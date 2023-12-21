@@ -2,7 +2,7 @@
 title: "logistic_1113"
 author: "심현구"
 date: "2023-11-13"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
